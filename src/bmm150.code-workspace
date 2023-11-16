@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../bmm150"
+		},
+		{
+			"name": "sd",
+			"path": "../../sd"
+		},
+		{
+			"name": "FlowSensorGray",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
